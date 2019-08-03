@@ -7,3 +7,5 @@ if __name__ == '__main__':
 
   obj = hogelib.SomeClass()
   print( obj.foo() )
+
+  print( hogelib.COMMON_CONST )
