@@ -1,2 +1,4 @@
-# pythonver
-versioning example for python 3
+Pythonver
+======
+
+Versioning example for python 3
