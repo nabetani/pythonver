@@ -1,5 +1,7 @@
 import sys
 import os
+
+# hogelib.v2 とバージョンを明示するとそのバージョンになる
 import hogelib.v2 as hogelib
 
 if __name__ == '__main__':
